@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidBabySteps</string>
+    <string name="title_shared_preference">Shared Preference</string>
+</resources>
